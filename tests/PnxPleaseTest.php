@@ -4,7 +4,7 @@ use PnxPlease\PnxPlease\PnxPlease;
 
 class PnxPleaseTest extends TestCase
 {
-  public function testCanBeNegated()
+  public function testThatYouGetTheRightXMLRecord()
   {
     // Initialize the object with a record id and a Primo URL
     $pnxPlease = new PnxPlease("01UOML_ALMA21149602560002976","http://miami-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do");
