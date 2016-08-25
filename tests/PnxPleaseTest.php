@@ -15,4 +15,5 @@ class PnxPleaseTest extends TestCase
     // Assert that the XML file and the PNX record from Primo are the same 
     $this->assertEquals($xml,$pnx);
   }
+
 }
