@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>21149602560002976</sourcerecordid>
+    <sourceid>01UOML_ALMA</sourceid>
+    <recordid>01UOML_ALMA21149602560002976</recordid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Alma</sourcesystem>
+    <almaid>01UOML_INST:21149602560002976</almaid>
+  </control>
+  <display>
+    <type>book</type>
+    <title>Confessions of a Scilly Birdman</title>
+    <creator>Hunt, David, 1934-1985.</creator>
+    <publisher>London ; Dover, N.H. : Croom Helm</publisher>
+    <creationdate>1985</creationdate>
+    <format>174 pages : illustrations ; 22 cm</format>
+    <identifier>$$CISBN$$V0709937245 (pbk.) :</identifier>
+    <subject>Hunt, David, 1934-1985; Bird watching -- England -- Scilly, Isles of; Birds -- England -- Scilly, Isles of; Ornithologists -- England -- Scilly, Isles of -- Biography; Bird watchers -- England -- Scilly, Isles of -- Biography</subject>
+    <language>eng</language>
+    <source>01UOML_ALMA</source>
+    <availlibrary>$$I01UOML$$LMLAKES$$1Books$$2(QL31.H86 A33 1985 )$$Savailable$$X01UOML_INST$$YMLAKES$$Zob3$$P1</availlibrary>
+    <lds02>991011314289702976</lds02>
+    <availinstitution>$$I01UOML$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+  </display>
+  <links>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <thumbnail>$$Tgoogle_thumb</thumbnail>
+    <linktotoc>$$Tamazon_toc$$Elinktotoc</linktotoc>
+    <addlink>$$T01UOML_syndetics_all$$DMore Information (Table of Contents, etc.)</addlink>
+    <linktouc>$$Tworldcat_isbn$$Eworldcat</linktouc>
+  </links>
+  <search>
+    <creatorcontrib>Hunt, David, 1934-1985.</creatorcontrib>
+    <creatorcontrib>Hunt, D</creatorcontrib>
+    <creatorcontrib>David Hunt ; foreword and postscript by Bill Oddie.</creatorcontrib>
+    <title>Confessions of a Scilly Birdman /</title>
+    <subject>Hunt, David, 1934-1985.</subject>
+    <subject>Bird watching England Scilly, Isles of.</subject>
+    <subject>Birds England Scilly, Isles of.</subject>
+    <subject>Ornithologists England Scilly, Isles of Biography.</subject>
+    <subject>Bird watchers England Scilly, Isles of Biography.</subject>
+    <subject>Birders (Observers)</subject>
+    <subject>g Hobbyists</subject>
+    <subject>g Naturalists</subject>
+    <subject>g Scientists</subject>
+    <subject>g Zoologists</subject>
+    <subject>Aves</subject>
+    <subject>Avian fauna</subject>
+    <subject>Avifauna</subject>
+    <subject>Wild birds</subject>
+    <subject>g Amniotes</subject>
+    <subject>g Vertebrates</subject>
+    <subject>Ornithology</subject>
+    <subject>Birding (Bird watching)</subject>
+    <subject>Birdwatching</subject>
+    <subject>Watching birds</subject>
+    <subject>g Wildlife watching</subject>
+    <general>Croom Helm,</general>
+    <sourceid>01UOML_ALMA</sourceid>
+    <recordid>01UOML_ALMA21149602560002976</recordid>
+    <isbn>0709937245</isbn>
+    <rsrctype>book</rsrctype>
+    <creationdate>1985</creationdate>
+    <startdate>19850101</startdate>
+    <enddate>19851231</enddate>
+    <addsrcrecordid>991011314289702976</addsrcrecordid>
+    <searchscope>01UOML_ALMA</searchscope>
+    <searchscope>01UOML</searchscope>
+    <scope>01UOML_ALMA</scope>
+    <scope>01UOML</scope>
+    <lsr01>.b10246290</lsr01>
+    <lsr06>QL31.H86 A33 1985</lsr06>
+    <lsr06>QL31H86A331985</lsr06>
+  </search>
+  <sort>
+    <title>Confessions of a Scilly Birdman /</title>
+    <creationdate>1985</creationdate>
+    <author>Hunt, David, 1934-1985.</author>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1985</creationdate>
+    <topic>Hunt, David, 1934-1985</topic>
+    <topic>Bird watching–England–Scilly, Isles of</topic>
+    <topic>Birds–England–Scilly, Isles of</topic>
+    <topic>Ornithologists–England–Scilly, Isles of–Biography</topic>
+    <topic>Bird watchers–England–Scilly, Isles of–Biography</topic>
+    <toplevel>available</toplevel>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Hunt, David</creatorcontrib>
+    <genre>Biography</genre>
+    <library>MLAKES</library>
+    <atoz>C</atoz>
+    <lfc05>Books</lfc05>
+    <frbrgroupid>616373669</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c1>85007847volume</c1>
+    <c2>0709937245volume</c2>
+    <c3>confessionsofascillybirdmanvolume</c3>
+    <c4>1985volume</c4>
+    <c5>991011314289702976</c5>
+    <f1>85007847</f1>
+    <f3>0709937245</f3>
+    <f5>confessionsofascillybirdman</f5>
+    <f6>1985</f6>
+    <f7>confessions of a scilly birdman</f7>
+    <f8>enk</f8>
+    <f9>174 pages :</f9>
+    <f10>croom helm</f10>
+    <f11>hunt david 1934 1985</f11>
+    <f20>991011314289702976</f20>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Khunt david 1934 1985$$AA</k1>
+    <k3>$$Kconfessions of a scilly birdmanbook$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>01UOML</institution>
+    <delcategory>Alma-P</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Hunt</aulast>
+    <aufirst>David,</aufirst>
+    <au>Hunt, David</au>
+    <btitle>Confessions of a Scilly Birdman</btitle>
+    <date>1985</date>
+    <risdate>1985</risdate>
+    <isbn>0709937245</isbn>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <mis1>21149602560002976</mis1>
+    <lccn>85007847</lccn>
+  </addata>
+  <browse>
+    <author>$$DHunt, David, 1934-1985$$EHunt, David, 1934-1985$$I41-LIBRARY_OF_CONGRESS-n 85010516$$PY</author>
+    <title>$$DConfessions of a Scilly Birdman$$EConfessions of a Scilly Birdman</title>
+    <subject>$$DBird watching -- England -- Scilly, Isles of$$EBird watching England Scilly, Isles of$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014305$$PY</subject>
+    <subject>$$DBirds -- England -- Scilly, Isles of$$EBirds England Scilly, Isles of$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PY</subject>
+    <subject>$$DOrnithologists -- England -- Scilly, Isles of -- Biography$$EOrnithologists England Scilly, Isles of Biography$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85095725$$PY</subject>
+    <subject>$$DBird watchers -- England -- Scilly, Isles of -- Biography$$EBird watchers England Scilly, Isles of Biography$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 86000714$$PY</subject>
+    <subject>$$DBirders (Observers)$$EBirders (Observers)$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 86000714$$PN</subject>
+    <subject>$$DHobbyists$$EHobbyists$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 86000714$$PN</subject>
+    <subject>$$DNaturalists$$ENaturalists$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 86000714$$PN</subject>
+    <subject>$$DNaturalists$$ENaturalists$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85095725$$PN</subject>
+    <subject>$$DScientists$$EScientists$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85095725$$PN</subject>
+    <subject>$$DZoologists$$EZoologists$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85095725$$PN</subject>
+    <subject>$$DAves$$EAves$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DAvian fauna$$EAvian fauna$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DAvifauna$$EAvifauna$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DWild birds$$EWild birds$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DAmniotes$$EAmniotes$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DVertebrates$$EVertebrates$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DOrnithology$$EOrnithology$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014310$$PN</subject>
+    <subject>$$DBirding (Bird watching)$$EBirding (Bird watching)$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014305$$PN</subject>
+    <subject>$$DBirdwatching$$EBirdwatching$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014305$$PN</subject>
+    <subject>$$DWatching birds$$EWatching birds$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014305$$PN</subject>
+    <subject>$$DWildlife watching$$EWildlife watching$$TLCSH$$I41-LIBRARY_OF_CONGRESS-sh 85014305$$PN</subject>
+    <subject>$$DHunt, David, 1934-1985$$EHunt, David, 1934-1985$$TLCNAMES$$I41-LIBRARY_OF_CONGRESS-n 85010516$$PY</subject>
+    <callnumber>$$I01UOML$$DQL31.H86 A33 1985$$E0ql   00031.h  86000  a33 1985$$T0</callnumber>
+    <institution>01UOML</institution>
+  </browse>
+</record>
