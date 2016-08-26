@@ -1,4 +1,5 @@
 # pnxplease
+[![Build Status](https://travis-ci.org/little9/pnxplease.svg?branch=master)](https://travis-ci.org/little9/pnxplease)
 
 This is a PHP class that returns a Primo PNX record as a string when given an Alma/Primo record id.
 
