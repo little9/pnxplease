@@ -35,6 +35,7 @@ class PnxPleaseTest extends TestCase
 	$pnxJSON = $pnxPlease->toJSON();
 	$testingJSON = file_get_contents(__DIR__ . '/record.json');
 
+	
 	$this->assertEquals(trim($pnxJSON), trim($testingJSON));
 	
     }
