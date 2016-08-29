@@ -11,8 +11,17 @@ the object.
 ```php
 
 $pnxPlease = new PnxPlease("01UOML_ALMA21149602560002976","http://miami-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do");
-$pnx = $pnxPlease->getPnx();
+```
 
+After initializing the object, you can get the results in a variety of formats:
+
+```php
+// As a JSON string
+$pnxPlease->toJSON;
+// As a PHP array 
+$pnxPlease->toArray;
+// As an XML string 
+$pnxPlease->toString;
 ```
 
 # Tests
